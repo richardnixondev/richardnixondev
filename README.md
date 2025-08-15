@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Experienced IT professional with 15+ years in networking, Linux/Unix, security, virtualization, and AWS. Skilled in troubleshooting, automation, and infrastructure monitoring. Passionate about learning and home labs, with multiple AWS and IT certifications. Currently completing a web development bootcamp to support my career transition.
+Full Stack Developer (MERN) transitioning from 15+ years in IT systems administration, networking, cloud services, Linux/Windows, and automation, with practical development skills in JavaScript, Node.js, Express, React, MongoDB, and Python. Adept at problem-solving in high-pressure environments, collaborating with cross-functional teams, and delivering scalable, secure, and maintainable solutions.
 
 - 📫 How to reach me: contact@richardnixon.dev
 
