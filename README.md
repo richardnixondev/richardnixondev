@@ -1,8 +1,8 @@
 # Richard Nixon
 
-**Full Stack Developer** | MERN Stack | 15+ Years in IT
+**Localisation Engineer and Backend Developer**  with 9+ years of experience building web services, automation tools, and scalable systems for international software delivery.
 
-Full Stack Developer with a solid background in systems administration, networking, cloud services, and automation. Specialized in JavaScript, Node.js, React, and MongoDB, focused on building scalable and secure solutions.
+Currently at Logitech, I design and develop Python-based backend services that power i18n/l10n workflows across 30+ locales, integrating LLMs into production translation pipelines, building REST APIs that connect localisation platforms and CI/CD systems, and working cross-functionally with engineering, QA, and project management teams to ship localised products globally.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardnixondev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@richardnixon.dev)
