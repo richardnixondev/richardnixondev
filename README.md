@@ -1,84 +1,103 @@
-# Richard Nixon
-**Security-focused Python & DevOps Engineer** | AI Pipeline Security · LLM 
-Integration · Postgraduate Studies in Cybersecurity (Level 9 NFQ, ATU)
+> [!IMPORTANT]
+  > **My code now lives on a self-hosted forge.**
+  > All of my own projects are at **[git.richardnixon.dev/explore/repos](https://git.richardnixon.dev/explore/repos)** (Forgejo, self-hosted alongside the rest of my
+  stack — Authentik SSO, CrowdSec, Prometheus/Loki/Grafana).
+  > This GitHub account is kept **only for contributing to upstream open-source projects** — issues, PRs, and forks against repositories I don't own. Nothing here is a
+   mirror.
 
-15+ years across critical infrastructure, public sector, and international 
-tech. Currently at Logitech building Python backends that integrate LLMs into 
-localisation pipelines across 30+ locales — with focus on secure API design, 
-authentication hardening, and structured logging for anomaly detection.
+  ---
 
-Background includes SRE at the Brazilian Ministry of Justice (8K+ users, 
-award-winning hybrid cloud project), Presidential Crisis Management Office 
-(real-time intelligence data pipelines), and mission-critical infrastructure 
-for FIFA World Cup 2014.
+  # Richard Nixon
 
-Pivoting toward **DevSecOps** and **AI/LLM Security** — exploring the 
-intersection of production ops, Python engineering, and security.
+  **Security-focused Python & DevOps Engineer** | AI Pipeline Security · LLM Integration · Postgraduate Studies in Cybersecurity (Level 9 NFQ, ATU)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardnixondev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@richardnixon.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://www.richardnixon.dev)
+  15+ years across critical infrastructure, public sector, and international tech. Currently at Logitech building Python backends that integrate LLMs into localisation
+   pipelines across 30+ locales — with focus on secure API design, authentication hardening, and structured logging for anomaly detection.
 
----
+  Background includes SRE at the Brazilian Ministry of Justice (8K+ users, award-winning hybrid cloud project), Presidential Crisis Management Office (real-time
+  intelligence data pipelines), and mission-critical infrastructure for FIFA World Cup 2014.
 
-## Focus Areas
+  Pivoting toward **DevSecOps** and **AI/LLM Security** — exploring the intersection of production ops, Python engineering, and security.
 
-- **AI / LLM Security** — prompt injection, system prompt leakage, adversarial 
-  testing of LLM pipelines in production
-- **DevSecOps** — secure API integration, secrets management, CI/CD hardening, 
-  observability for detection
-- **Detection Engineering** — Sigma rules, log-based anomaly detection, 
-  self-hosted security stack (CrowdSec, Authentik, Prometheus/Loki/Grafana)
-- **Backend Python** — FastAPI, Django, REST APIs, LLM integration at scale
+  [![Forgejo](https://img.shields.io/badge/My_code-git.richardnixon.dev-FB923C?style=flat&logo=forgejo&logoColor=white)](https://git.richardnixon.dev/explore/repos)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://www.richardnixon.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardnixondev/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@richardnixon.dev)
 
----
+  ---
 
-## Tech Stack
+  ## Where to find me
 
-**Languages & Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  | Platform | What you'll find here |
+  |---|---|
+  | **[git.richardnixon.dev](https://git.richardnixon.dev/explore/repos)** (Forgejo) | All my own projects — source of truth, issues, PRs, releases |
+  | github.com/richardnixondev | OSS contributions to upstream projects (forks, PRs, issues) only — no personal repos |
 
-**Security & Observability**  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-1A1A1A?style=flat)
-![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=flat&logo=authentik&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+  Why? The self-hosted forge is part of a larger security-focused stack I run and observe end-to-end — same SSO, same WAF, same metrics pipeline. Dogfooding the
+  infrastructure I write about.
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+  ---
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+  ## Focus Areas
 
----
+  - **AI / LLM Security** — prompt injection, system prompt leakage, adversarial testing of LLM pipelines in production
+  - **DevSecOps** — secure API integration, secrets management, CI/CD hardening, observability for detection
+  - **Detection Engineering** — Sigma rules, log-based anomaly detection, self-hosted security stack (CrowdSec, Authentik, Prometheus/Loki/Grafana)
+  - **Backend Python** — FastAPI, Django, REST APIs, LLM integration at scale
 
-## Featured Projects
+  ---
 
-> Security-focused projects currently in development. Check back Q2-Q3 2026.
+  ## Tech Stack
 
-<!-- Quando criares os repos do plano, adicionar aqui:
-- LLM Prompt Injection Detector for Translation Pipelines
-- Sigma Rules for Self-Hosted Stack (Authentik / Traefik / CrowdSec)
-- Security write-ups & VDP acknowledgments
--->
+  **Languages & Backend**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
----
+  **Security & Observability**
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+  ![CrowdSec](https://img.shields.io/badge/CrowdSec-1A1A1A?style=flat)
+  ![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=flat&logo=authentik&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+  ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 
-## GitHub Stats
+  **Forge & SCM**
+  ![Forgejo](https://img.shields.io/badge/Forgejo-FB923C?style=flat&logo=forgejo&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=richardnixondev&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardnixondev&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</p>
+  **Cloud & DevOps**
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+  **Databases**
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+  ---
+
+  ## Featured Projects
+
+  > Personal projects are not on GitHub.
+  > Browse the live catalogue at **[git.richardnixon.dev/explore/repos](https://git.richardnixon.dev/explore/repos)**.
+
+  <!-- Pipeline planned (Q2–Q3 2026):
+  - LLM Prompt Injection Detector for Translation Pipelines
+  - Sigma Rules for Self-Hosted Stack (Authentik / Traefik / CrowdSec)
+  - Security write-ups & VDP acknowledgments
+  -->
+
+  ---
+
+  ## OSS Contributions
+
+  This account's activity reflects contributions to projects maintained by others. Notable areas of interest: Forgejo, Authentik, CrowdSec, FastAPI, Django,
+  observability tooling.
+  
+
